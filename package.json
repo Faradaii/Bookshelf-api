@@ -9,5 +9,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.9"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "eslint-config-google": "^0.14.0",
+    "nodemon": "^3.1.0"
+  }
 }
