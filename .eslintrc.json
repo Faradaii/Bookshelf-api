@@ -10,5 +10,7 @@
         "ecmaVersion": "latest"
     },
     "rules": {
+      "no-nested-ternary":"off",
+      "no-console": "off"
     }
 }
